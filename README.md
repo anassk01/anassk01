@@ -1,4 +1,4 @@
-<h2 align="left">Full-stack wizard ✨ turning coffee into code and LaTeX templates into masterpieces. Making your digital life better, one commit at a time 🚀</h2>
+<h2 align="left">Full-stack developer working with MEAN stack. Creator of code and LaTeX templates. 💻</h2>
 
 ###
 
