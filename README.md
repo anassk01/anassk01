@@ -1,5 +1,11 @@
 <h2 align="left">Full-stack developer working with MEAN stack. Creator of code and LaTeX templates. 💻</h2>
 
+I take on freelance automation projects through [PullMesh](https://pullmesh.com/).
+
+- [n8n workflow automation](https://pullmesh.com/n8n/)
+- [Playwright web scraping](https://pullmesh.com/playwright/)
+- [Custom MCP server development](https://pullmesh.com/mcp/)
+
 ###
 
 <div align="center">
